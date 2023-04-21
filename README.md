@@ -1,6 +1,6 @@
 # OpenCV Write Video from Webcam.
 Writing video from laptop webcam using OpenCV.
-## Contents:
+## Contents :
 
 In this the case I was reading from the laptop webcam using OpenCV.
 I have used the following functions/methods:
